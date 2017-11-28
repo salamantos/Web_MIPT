@@ -4,7 +4,7 @@ import "unicode"
 
 func RemoveEven(array []int) (result []int) {
 	for _, elem := range array {
-		if elem%2 == 0 {
+		if elem%2 == 1 {
 			result = append(result, elem)
 		}
 	}
