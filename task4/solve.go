@@ -1,0 +1,1 @@
+/home/salamantos/go/src/web_task_4/solve.go
