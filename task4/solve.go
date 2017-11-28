@@ -1,5 +1,6 @@
 package main
 
+import "unicode"
 
 func RemoveEven(array []int) (result []int) {
 	for _, elem := range array {
