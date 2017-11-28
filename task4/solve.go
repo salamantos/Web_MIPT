@@ -1,1 +1,7 @@
-/home/salamantos/go/src/web_task_4/solve.go
+package main
+
+import "fmt"
+
+func main() {
+	fmt.Println(fmt.Println(`Hello World`))
+}
